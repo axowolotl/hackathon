@@ -32,4 +32,7 @@ Eco-calculator
  https://www.bmkg.go.id/siaran-pers/atasi-krisis-air-bmkg-teknologi-dan-kearifan-lokal-jadi-jurus-ampuh
  https://www.bmkg.go.id/siaran-pers/di-lokakarya-iklim-internasional-bali-bmkg-kembali-ingatkan-dahsyatnya-dampak-perubahan-iklim
 
-
+## Daftar Pengujian 
+- Fungsionalitas
+- Interface/Antarmuka
+- Kinerja/Performance
